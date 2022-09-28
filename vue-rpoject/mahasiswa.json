@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Benny Yoga Suhardi",
+      "NIM": "211511035",
+      "kelas": "2B",
+      "prodi": "D3 - Teknik Informatika",
+      "jurusan": "JTK",
+      "image" : "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
+    },
+    {
+      "nama": "Kehed",
+      "NIM": "12312",
+      "kelas": "asdasd",
+      "prodi": "asda",
+      "jurusan": "JTK",
+      "id": 2,
+      "image" : "https://images.pexels.com/photos/1870376/pexels-photo-1870376.jpeg?cs=srgb&dl=pexels-larissa-barbosa-1870376.jpg&fm=jpg"
+    },
+    {
+      "nama": "asd",
+      "NIM": "asd123",
+      "kelas": "123",
+      "prodi": "asd",
+      "jurusan": "JTE",
+      "id": 3,
+      "image" : "https://images.pexels.com/photos/1444321/pexels-photo-1444321.jpeg?cs=srgb&dl=pexels-cats-coming-1444321.jpg&fm=jpg"
+    }
+  ]
+}
